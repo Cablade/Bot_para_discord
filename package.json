@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-adm",
+  "version": "1.0.0",
+  "description": "Este é um bot de discord para administrar um servidor: criado por Cablade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: nenhum teste especificado\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^14.11.0",
+    "ms": "^2.1.3"
+  }
+}
